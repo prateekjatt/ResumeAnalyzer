@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.47318be9.css",
-    "main.js": "/static/js/main.b5a2d911.js",
+    "main.css": "/static/css/main.816c04a3.css",
+    "main.js": "/static/js/main.4282d575.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/headhunting_online_1.jpg": "/static/media/headhunting_online_1.fb511f010027057c3cbc.jpg",
+    "static/media/4178155.jpg": "/static/media/4178155.d8204035be3f2709f9c1.jpg",
+    "static/media/5052521.jpg": "/static/media/5052521.cb8d85ebf62182d25c93.jpg",
+    "static/media/reshot-icon-resume-286AWVXNTL.svg": "/static/media/reshot-icon-resume-286AWVXNTL.eb18f56f67c54cc798f775360174811f.svg",
     "index.html": "/index.html",
-    "main.47318be9.css.map": "/static/css/main.47318be9.css.map",
-    "main.b5a2d911.js.map": "/static/js/main.b5a2d911.js.map",
+    "main.816c04a3.css.map": "/static/css/main.816c04a3.css.map",
+    "main.4282d575.js.map": "/static/js/main.4282d575.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47318be9.css",
-    "static/js/main.b5a2d911.js"
+    "static/css/main.816c04a3.css",
+    "static/js/main.4282d575.js"
   ]
 }
